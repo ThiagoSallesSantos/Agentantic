@@ -1,0 +1,16 @@
+## Generative Model
+ollama ## Ollama - Local
+
+## REST API Libs
+fastapi
+uvicorn
+
+## Data validation
+pydantic
+pydantic-settings
+python-multipart
+
+## Request HTTP
+requests
+
+## TESTS LIBS ##
